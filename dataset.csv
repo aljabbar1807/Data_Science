@@ -1,0 +1,506 @@
+Customer_ID,Age,Gender,City,Annual_Income,Product_Category,Purchase_Amount,Customer_Rating,Orders
+1001,34.0,Male,Bikaner,665600.0,Sports,3967.01,3.2,5
+1002,22.0,Male,Bikaner,708900.0,Books,5268.3,4.0,4
+1003,38.0,Female,Jodhpur,507300.0,Home & Kitchen,4645.46,3.8,6
+1004,39.0,Male,Ajmer,654800.0,Home & Kitchen,3470.85,3.7,5
+1005,18.0,Male,Udaipur,752700.0,Books,4562.27,3.7,9
+1006,19.0,Female,Kota,761300.0,Clothing,5636.44,3.9,3
+1007,32.0,Other,Bikaner,929300.0,Electronics,3512.12,4.4,5
+1008,28.0,Female,Kota,879900.0,Home & Kitchen,3426.18,4.8,8
+1009,31.0,Male,Jodhpur,469800.0,Electronics,2207.46,3.8,3
+1010,23.0,Female,Jodhpur,953000.0,Electronics,6059.6,4.4,6
+1011,39.0,Female,Udaipur,554400.0,Home & Kitchen,6399.71,3.3,6
+1012,38.0,Male,Ajmer,,Books,5709.65,4.3,6
+1013,32.0,Female,Bikaner,662200.0,Books,7323.38,3.3,4
+1014,41.0,Male,Udaipur,575800.0,Clothing,5393.31,4.6,4
+1015,35.0,Male,Bikaner,324600.0,Home & Kitchen,6062.42,5.0,3
+1016,23.0,Female,Bikaner,,Electronics,5868.44,3.7,6
+1017,34.0,Male,Udaipur,369300.0,Books,4998.61,2.3,6
+1018,22.0,Male,Udaipur,824100.0,Clothing,4032.19,3.4,4
+1019,39.0,Female,Ajmer,923000.0,Books,10071.14,4.7,7
+1020,31.0,Other,Kota,506600.0,Sports,4205.71,4.2,4
+1021,29.0,Female,Jaipur,704400.0,Books,3735.07,4.0,3
+1022,25.0,Female,Bikaner,519400.0,Clothing,6154.82,4.5,7
+1023,42.0,Other,Kota,536900.0,Sports,5754.08,4.1,3
+1024,30.0,Male,Kota,789400.0,Books,2109.46,4.7,7
+1025,27.0,Male,Bikaner,643100.0,Books,7669.89,4.4,3
+1026,28.0,Male,Ajmer,963100.0,Sports,4992.77,4.9,1
+1027,36.0,Male,Jodhpur,563200.0,Sports,2755.95,4.1,5
+1028,34.0,Female,Udaipur,829900.0,Electronics,7815.33,4.4,2
+1029,35.0,Male,Jodhpur,667500.0,Sports,6576.49,3.6,5
+1030,35.0,Male,Kota,793200.0,Books,2418.01,3.4,2
+1031,50.0,Male,Udaipur,569500.0,Clothing,9109.8,5.0,5
+1032,27.0,Male,Udaipur,641100.0,Clothing,6649.35,4.0,9
+1033,26.0,Female,Bikaner,629200.0,Books,5177.57,4.4,2
+1034,24.0,Male,Udaipur,499500.0,Clothing,8698.48,3.9,5
+1035,37.0,Male,Udaipur,769200.0,Home & Kitchen,5550.46,3.4,4
+1036,41.0,Male,Udaipur,767000.0,Books,5138.22,3.8,5
+1037,30.0,Female,Jodhpur,756800.0,Books,3747.34,4.8,5
+1038,23.0,Female,Jaipur,926700.0,Sports,6480.07,4.2,4
+1039,24.0,Female,Bikaner,910900.0,Electronics,6248.53,2.6,3
+1040,37.0,Male,Jaipur,582500.0,Clothing,5232.3,3.6,4
+1041,38.0,Male,Jodhpur,717100.0,Sports,3462.03,5.0,6
+1042,36.0,Female,Bikaner,537800.0,Home & Kitchen,5485.85,3.7,8
+1043,25.0,Female,Jaipur,654200.0,Clothing,5046.44,2.5,2
+1044,33.0,Female,Kota,542000.0,Clothing,2266.36,5.0,4
+1045,32.0,Female,Bikaner,941600.0,Clothing,1962.01,4.3,2
+1046,33.0,Female,Kota,715500.0,Home & Kitchen,6443.34,3.8,4
+1047,39.0,Male,Jodhpur,610800.0,Clothing,500.0,3.5,5
+1048,33.0,Male,Jaipur,864900.0,Books,5651.9,4.6,9
+1049,37.0,Female,Ajmer,259300.0,Home & Kitchen,4148.22,3.4,3
+1050,32.0,Male,Jodhpur,287500.0,Books,8078.14,4.6,3
+1051,34.0,Female,Bikaner,793300.0,Electronics,4114.37,4.2,4
+1052,37.0,Female,Jodhpur,660900.0,Books,6650.87,4.0,6
+1053,18.0,Female,Jaipur,695100.0,Sports,4326.79,3.9,5
+1054,28.0,Female,Bikaner,411200.0,Electronics,5450.25,3.7,6
+1055,,Female,Ajmer,645800.0,Clothing,6821.04,4.5,2
+1056,25.0,Female,Ajmer,1010600.0,Books,4182.38,3.2,6
+1057,29.0,Female,Bikaner,798400.0,Books,7392.42,2.7,3
+1058,44.0,Female,Jodhpur,680500.0,Books,3013.86,4.2,2
+1059,23.0,Male,Ajmer,571000.0,Home & Kitchen,5848.1,4.2,2
+1060,40.0,Female,Bikaner,579000.0,Books,7229.81,4.1,9
+1061,18.0,Female,Jodhpur,266700.0,Books,6652.08,4.1,3
+1062,28.0,Male,Jaipur,696400.0,Electronics,9416.18,3.6,4
+1063,32.0,Male,Ajmer,802200.0,Books,3520.43,4.4,6
+1064,36.0,Female,Jodhpur,366400.0,Home & Kitchen,2165.87,3.8,5
+1065,37.0,Female,Bikaner,530900.0,Electronics,3012.46,3.5,3
+1066,38.0,Male,Jaipur,3500000.0,Home & Kitchen,6652.97,3.6,2
+1067,28.0,Male,Jodhpur,476200.0,Home & Kitchen,6295.43,5.0,5
+1068,27.0,Male,Jodhpur,659600.0,Electronics,5424.96,2.6,6
+1069,39.0,Male,Jodhpur,274800.0,Sports,2729.49,4.1,5
+1070,29.0,Female,Bikaner,760600.0,Clothing,6887.11,2.6,3
+1071,20.0,Male,Ajmer,785700.0,Clothing,2505.65,3.7,5
+1072,21.0,Male,Ajmer,604800.0,Home & Kitchen,7749.69,3.5,8
+1073,23.0,Female,Bikaner,203500.0,Sports,11486.36,2.3,6
+1074,35.0,Male,Jodhpur,470600.0,Books,6006.19,4.1,4
+1075,32.0,Male,Ajmer,871900.0,Books,6482.84,3.5,3
+1076,37.0,Female,Kota,180000.0,Clothing,4115.71,2.3,5
+1077,27.0,Female,Kota,587400.0,Sports,1217.53,4.4,7
+1078,32.0,Other,Bikaner,437600.0,Sports,3874.02,4.8,4
+1079,37.0,Female,Bikaner,794800.0,Home & Kitchen,2795.63,4.8,5
+1080,,Male,Ajmer,528500.0,Home & Kitchen,2016.59,4.1,6
+1081,35.0,Female,Kota,722700.0,Electronics,8989.19,3.8,6
+1082,25.0,Female,Kota,751800.0,Books,5800.3,4.7,4
+1083,,Female,Bikaner,980500.0,Sports,6035.31,5.0,4
+1084,28.0,Other,Jodhpur,,Home & Kitchen,4520.15,4.6,4
+1085,20.0,Female,Jodhpur,717700.0,Home & Kitchen,4819.68,3.1,6
+1086,35.0,Female,Kota,382700.0,Home & Kitchen,7322.01,3.9,4
+1087,27.0,Male,Jaipur,864300.0,Electronics,5128.86,4.1,6
+1088,31.0,Female,Jodhpur,513100.0,Books,6367.53,2.5,4
+1089,35.0,Male,Bikaner,549100.0,Books,4768.79,4.1,6
+1090,35.0,Female,Ajmer,646000.0,Sports,4447.26,5.0,7
+1091,37.0,Female,Kota,368700.0,Sports,2104.79,4.2,12
+1092,30.0,Other,Udaipur,691200.0,Home & Kitchen,848.95,4.8,4
+1093,27.0,Other,Udaipur,824100.0,Sports,4624.56,3.9,7
+1094,30.0,Male,Bikaner,702700.0,Home & Kitchen,5324.29,3.7,4
+1095,18.0,Female,Kota,364000.0,Books,2370.51,4.1,9
+1096,18.0,Female,Jaipur,627700.0,Books,5124.16,3.2,9
+1097,19.0,Male,Kota,783600.0,Sports,5318.26,3.1,5
+1098,22.0,Male,Udaipur,2500000.0,Books,500.0,4.7,2
+1099,35.0,Male,Bikaner,456500.0,Electronics,3186.73,4.8,4
+1100,23.0,Female,Ajmer,807800.0,Electronics,6095.98,3.1,5
+1101,28.0,Female,Ajmer,698600.0,Home & Kitchen,6051.53,4.5,5
+1102,43.0,Other,Kota,724200.0,Home & Kitchen,2661.92,3.7,5
+1103,28.0,Male,Udaipur,984700.0,Books,5548.59,4.0,6
+1104,38.0,Other,Udaipur,734300.0,Home & Kitchen,7449.3,4.1,7
+1105,23.0,Male,Jodhpur,768400.0,Home & Kitchen,6909.56,4.5,9
+1106,29.0,Female,Ajmer,1137900.0,Sports,4990.37,3.9,4
+1107,22.0,Male,Ajmer,611500.0,Clothing,4170.45,4.8,5
+1108,28.0,Female,Ajmer,506400.0,Home & Kitchen,3815.44,4.0,5
+1109,39.0,Female,Jodhpur,,Home & Kitchen,6229.2,4.2,9
+1110,18.0,Female,Jodhpur,729000.0,Home & Kitchen,5629.23,3.2,3
+1111,35.0,Female,Ajmer,555200.0,Sports,6584.69,5.0,7
+1112,33.0,Male,Kota,464200.0,Sports,5490.12,4.1,4
+1113,26.0,Male,Bikaner,1065800.0,Home & Kitchen,7001.28,4.3,3
+1114,18.0,Male,Udaipur,708800.0,Home & Kitchen,5408.1,2.7,6
+1115,32.0,Male,Udaipur,518200.0,Home & Kitchen,6926.32,3.2,4
+1116,26.0,Female,Kota,814900.0,Electronics,7115.81,4.7,9
+1117,33.0,Female,Bikaner,630400.0,Home & Kitchen,3430.04,4.0,3
+1118,31.0,Female,,604500.0,Clothing,1222.08,2.5,5
+1119,45.0,Female,Bikaner,751200.0,Electronics,8595.68,4.5,6
+1120,29.0,Female,Jodhpur,417500.0,Electronics,5764.65,3.4,3
+1121,22.0,Female,Udaipur,713500.0,Home & Kitchen,1428.13,4.8,6
+1122,33.0,Male,Ajmer,994300.0,Electronics,3629.6,3.7,3
+1123,,Male,Ajmer,733900.0,Books,6898.12,3.9,3
+1124,43.0,Female,Ajmer,582300.0,Home & Kitchen,4584.71,4.6,4
+1125,39.0,Female,Jodhpur,558700.0,Clothing,4073.46,3.2,6
+1126,34.0,Male,Ajmer,576100.0,Books,8281.94,3.1,4
+1127,44.0,Female,Ajmer,604300.0,Home & Kitchen,2895.97,3.7,6
+1128,20.0,Female,Ajmer,582000.0,Books,3444.06,4.4,3
+1129,25.0,Male,Jaipur,814900.0,Books,5665.05,2.9,5
+1130,23.0,Male,Bikaner,338000.0,Electronics,6059.0,2.6,5
+1131,27.0,Female,Ajmer,805200.0,Clothing,6291.95,4.4,3
+1132,19.0,Female,Bikaner,581700.0,Home & Kitchen,7204.72,3.4,5
+1133,37.0,Male,Jodhpur,717900.0,Sports,5636.87,3.5,2
+1134,29.0,Female,Bikaner,447100.0,Electronics,6276.64,2.5,5
+1135,18.0,Male,Jaipur,889200.0,Electronics,4629.74,3.3,4
+1136,22.0,Female,Udaipur,874200.0,Sports,5337.94,3.8,15
+1137,34.0,Male,Kota,822700.0,Sports,5436.58,4.5,11
+1138,39.0,Female,Udaipur,377300.0,Electronics,5673.22,3.3,6
+1139,49.0,Male,Bikaner,799200.0,Home & Kitchen,6899.59,5.0,4
+1140,57.0,Male,Jodhpur,722900.0,Books,6421.32,3.3,5
+1141,35.0,Female,Kota,361100.0,Electronics,5297.28,3.3,4
+1142,22.0,Male,Kota,645600.0,Clothing,3419.92,4.9,4
+1143,18.0,Male,Kota,715600.0,Clothing,5348.88,3.9,5
+1144,33.0,Male,Jodhpur,750100.0,Books,5138.36,3.4,2
+1145,24.0,Female,Jodhpur,681900.0,Clothing,5625.0,3.7,11
+1146,27.0,Female,,702400.0,Home & Kitchen,10054.36,4.7,5
+1147,25.0,Other,Udaipur,915300.0,Clothing,4047.7,4.8,7
+1148,30.0,Male,Kota,,Books,6129.04,3.2,4
+1149,41.0,Male,Udaipur,180000.0,Electronics,7550.62,3.8,2
+1150,32.0,Male,Udaipur,592900.0,Clothing,5415.6,3.9,7
+1151,30.0,Female,Jodhpur,620400.0,Clothing,10343.26,3.1,3
+1152,,Other,Jodhpur,334600.0,Sports,4368.31,3.8,2
+1153,18.0,Female,Kota,667000.0,Sports,5913.0,3.8,7
+1154,27.0,Female,Bikaner,874800.0,Home & Kitchen,3442.63,4.6,3
+1155,31.0,Male,Jodhpur,454400.0,Electronics,4426.65,4.6,7
+1156,47.0,Female,Ajmer,710600.0,Books,5747.65,3.6,3
+1157,32.0,Female,Kota,485200.0,Home & Kitchen,7061.87,3.7,6
+1158,40.0,Male,Jodhpur,529100.0,Sports,5902.01,4.3,5
+1159,27.0,Male,Udaipur,915900.0,Clothing,7970.05,3.4,3
+1160,20.0,Male,Jaipur,552300.0,Sports,4991.08,4.2,9
+1161,22.0,Male,Jaipur,733200.0,Sports,4469.23,3.7,4
+1162,24.0,Male,Udaipur,313200.0,Clothing,11148.77,3.1,5
+1163,50.0,Male,Udaipur,985200.0,Books,6067.32,3.1,4
+1164,24.0,Female,Bikaner,758500.0,Clothing,3617.14,4.8,6
+1165,39.0,Male,Jaipur,617200.0,Clothing,3672.62,3.7,5
+1166,23.0,Male,Ajmer,753600.0,Clothing,3126.1,4.9,4
+1167,39.0,Female,,396200.0,Books,7260.45,3.4,3
+1168,34.0,Female,Jaipur,862900.0,Clothing,4398.37,4.0,6
+1169,30.0,Female,Bikaner,591700.0,Books,5480.2,5.0,7
+1170,31.0,Male,Bikaner,613300.0,Home & Kitchen,5060.28,3.1,6
+1171,25.0,Female,Kota,561500.0,Books,6809.28,2.5,4
+1172,35.0,Male,Jaipur,545500.0,Sports,35000.0,4.7,9
+1173,27.0,Male,Jaipur,775000.0,Electronics,2833.74,3.2,6
+1174,20.0,Female,Udaipur,696100.0,Sports,5693.45,3.8,6
+1175,19.0,Female,Udaipur,767300.0,Electronics,6522.11,3.4,5
+1176,33.0,Female,Ajmer,648400.0,Home & Kitchen,5931.57,4.0,5
+1177,45.0,Female,Jodhpur,742400.0,Clothing,3419.2,3.1,5
+1178,,Female,Jodhpur,574600.0,Books,6690.47,3.7,2
+1179,30.0,Male,Ajmer,1051400.0,Books,3563.51,4.1,4
+1180,34.0,Male,Jaipur,367800.0,Sports,4052.61,3.1,3
+1181,43.0,Male,Jaipur,877000.0,Home & Kitchen,3123.3,3.3,7
+1182,33.0,Male,Udaipur,896200.0,Sports,8062.55,3.6,6
+1183,27.0,Female,Udaipur,496600.0,Clothing,6593.53,2.8,4
+1184,41.0,Male,Kota,1051300.0,Clothing,6530.99,3.5,3
+1185,35.0,Female,Ajmer,829200.0,Clothing,7943.87,3.9,4
+1186,45.0,Female,Ajmer,824800.0,Home & Kitchen,11387.83,3.5,3
+1187,33.0,Female,Jodhpur,655000.0,Books,1439.7,3.6,2
+1188,20.0,Male,Ajmer,610900.0,Sports,3575.57,3.8,4
+1189,19.0,Male,Kota,612300.0,Clothing,3844.41,3.3,5
+1190,46.0,Other,Jaipur,720300.0,Clothing,3328.2,4.3,7
+1191,47.0,Female,Ajmer,902200.0,Sports,2829.32,4.8,3
+1192,29.0,Female,Jaipur,682600.0,Home & Kitchen,4540.76,3.5,3
+1193,28.0,Female,Kota,485900.0,Clothing,2523.47,4.1,5
+1194,44.0,Female,Bikaner,798400.0,Sports,5937.09,3.6,4
+1195,21.0,Male,Jodhpur,815800.0,Home & Kitchen,5313.74,4.1,4
+1196,23.0,Female,Jodhpur,767800.0,Sports,6258.26,4.9,4
+1197,37.0,Male,Udaipur,784200.0,Sports,6317.0,4.2,3
+1198,27.0,Female,Ajmer,601200.0,Sports,6526.62,2.6,4
+1199,31.0,Female,Jodhpur,,Home & Kitchen,4378.5,4.1,10
+1200,30.0,Female,Kota,493700.0,Books,9866.52,4.7,4
+1201,34.0,Male,Udaipur,355600.0,Sports,5715.75,3.6,6
+1202,44.0,Male,Jaipur,692700.0,Clothing,1102.53,4.5,5
+1203,32.0,Female,Bikaner,635000.0,Electronics,2994.77,3.3,9
+1204,37.0,Male,Bikaner,570800.0,Clothing,1370.89,2.8,8
+1205,18.0,Male,Kota,180000.0,Books,5238.14,3.9,6
+1206,31.0,Male,Jodhpur,425500.0,Home & Kitchen,4932.03,2.6,4
+1207,23.0,Male,Jaipur,851800.0,Electronics,4169.46,3.6,5
+1208,20.0,Male,Udaipur,530400.0,Home & Kitchen,9624.04,4.7,5
+1209,23.0,Female,Kota,714900.0,Electronics,6407.76,2.5,5
+1210,28.0,Male,Kota,399700.0,Home & Kitchen,6797.42,2.9,4
+1211,39.0,Male,Jodhpur,909000.0,Home & Kitchen,3151.64,3.1,5
+1212,19.0,Male,Kota,624100.0,Books,3001.88,3.8,7
+1213,31.0,Male,Jodhpur,702200.0,Home & Kitchen,5280.97,3.5,10
+1214,27.0,Male,Bikaner,1068600.0,Home & Kitchen,5580.62,4.8,10
+1215,28.0,Female,Bikaner,923000.0,Books,1116.11,4.5,8
+1216,40.0,Male,Kota,594800.0,Books,4803.32,,2
+1217,36.0,Male,Jaipur,543200.0,Sports,5230.96,3.9,7
+1218,43.0,Male,Ajmer,591400.0,Clothing,4726.67,4.1,4
+1219,30.0,Male,Jaipur,741800.0,Home & Kitchen,3410.54,3.2,5
+1220,25.0,Male,Ajmer,631100.0,Clothing,4013.02,4.4,4
+1221,29.0,Male,Jaipur,578900.0,Home & Kitchen,4810.91,3.0,4
+1222,33.0,Female,Kota,914100.0,Electronics,5399.76,4.4,6
+1223,33.0,Male,Jaipur,629400.0,Home & Kitchen,6530.54,4.6,2
+1224,21.0,Female,Jaipur,1063900.0,Electronics,7577.88,3.9,9
+1225,32.0,Female,Bikaner,666300.0,Home & Kitchen,4552.44,3.7,7
+1226,33.0,Male,Bikaner,971400.0,Sports,4196.46,4.1,4
+1227,54.0,Male,Jaipur,,Sports,6162.84,1.8,3
+1228,48.0,Female,Ajmer,,Home & Kitchen,6543.86,4.0,6
+1229,23.0,Female,Jodhpur,519600.0,Electronics,4244.76,3.7,3
+1230,28.0,Male,Jodhpur,496300.0,Clothing,6938.87,3.8,3
+1231,18.0,Male,Jodhpur,732700.0,Electronics,7355.09,4.3,5
+1232,26.0,Male,Udaipur,827900.0,Books,8041.71,3.7,5
+1233,34.0,Male,Jodhpur,657200.0,Sports,9112.31,3.0,3
+1234,42.0,Female,Udaipur,418400.0,Home & Kitchen,3293.88,3.7,5
+1235,24.0,Male,Jodhpur,405200.0,Electronics,5230.58,3.8,1
+1236,25.0,Male,,393100.0,Electronics,5224.81,3.9,3
+1237,18.0,Female,Udaipur,331800.0,Sports,4984.24,3.9,5
+1238,30.0,Male,Bikaner,3000000.0,Clothing,3771.62,4.5,4
+1239,21.0,Male,Bikaner,852500.0,Electronics,1931.76,3.0,2
+1240,26.0,Female,Udaipur,647600.0,Electronics,5403.89,3.9,9
+1241,23.0,Male,Jodhpur,243100.0,Clothing,3509.62,4.7,3
+1242,30.0,Male,Bikaner,615700.0,Books,5389.19,2.6,4
+1243,18.0,Male,Bikaner,620700.0,Sports,3453.1,3.9,4
+1244,18.0,Female,Bikaner,1027300.0,Clothing,2780.75,3.4,2
+1245,50.0,Male,Ajmer,387700.0,Books,5715.46,,9
+1246,19.0,Male,Bikaner,579700.0,Electronics,5532.03,3.2,9
+1247,21.0,Male,Ajmer,957100.0,Electronics,6474.42,3.7,5
+1248,48.0,Male,Udaipur,731000.0,Electronics,10008.9,5.0,5
+1249,57.0,Female,Udaipur,751400.0,Sports,5810.04,2.9,5
+1250,20.0,Male,Jodhpur,670600.0,Home & Kitchen,6267.18,3.0,2
+1251,28.0,Female,Jodhpur,709400.0,Sports,2829.37,2.9,8
+1252,34.0,Female,Bikaner,790000.0,Electronics,2368.8,5.0,4
+1253,47.0,Female,Bikaner,504300.0,Electronics,8682.22,3.5,5
+1254,22.0,Male,Bikaner,808100.0,Sports,3168.34,3.8,5
+1255,29.0,Female,Jodhpur,402900.0,Electronics,2903.32,3.5,9
+1256,38.0,Female,Udaipur,709100.0,Electronics,5113.98,3.1,3
+1257,35.0,Male,Jodhpur,682200.0,Home & Kitchen,5001.58,3.6,6
+1258,28.0,Female,Ajmer,539100.0,Books,3214.49,5.0,4
+1259,30.0,Female,Jodhpur,645900.0,Clothing,4529.06,4.8,2
+1260,19.0,Male,,537900.0,Home & Kitchen,7904.63,3.2,3
+1261,29.0,Female,Kota,457100.0,Books,3426.81,4.3,9
+1262,29.0,Male,Ajmer,586300.0,Home & Kitchen,2133.92,3.2,3
+1263,33.0,Female,Ajmer,451300.0,Clothing,7273.71,2.6,7
+1264,26.0,Other,Jaipur,708100.0,Electronics,6283.05,4.5,6
+1265,,Male,Jodhpur,443000.0,Home & Kitchen,3834.86,4.6,4
+1266,40.0,Female,Jaipur,778200.0,Sports,1719.23,4.5,3
+1267,32.0,Male,Jodhpur,437300.0,Books,3561.83,3.5,4
+1268,34.0,Female,Kota,548100.0,Sports,5079.65,3.7,3
+1269,31.0,Female,Jodhpur,537600.0,Electronics,7764.48,4.3,6
+1270,31.0,Male,Jaipur,888500.0,Electronics,2919.52,4.1,4
+1271,25.0,Male,Kota,709500.0,Home & Kitchen,5014.06,3.5,6
+1272,34.0,Male,Jaipur,611900.0,Electronics,6685.32,2.7,6
+1273,30.0,Male,Jodhpur,739800.0,Home & Kitchen,500.0,3.9,7
+1274,50.0,Male,Jaipur,270700.0,Sports,7474.33,4.6,3
+1275,45.0,Male,Jaipur,642200.0,Clothing,2598.61,3.0,4
+1276,34.0,Male,Udaipur,1009600.0,Home & Kitchen,5930.39,4.2,1
+1277,24.0,Male,Ajmer,673800.0,Books,5742.7,4.0,1
+1278,21.0,Female,Bikaner,662200.0,Electronics,7586.09,4.3,4
+1279,42.0,Female,Jaipur,748700.0,Sports,6412.03,4.4,4
+1280,33.0,Female,Jaipur,811200.0,Clothing,500.0,3.3,3
+1281,35.0,Male,Udaipur,290500.0,Sports,3473.49,2.7,8
+1282,18.0,Female,Kota,347200.0,Books,5504.05,3.4,3
+1283,39.0,Female,Bikaner,687900.0,Electronics,4771.04,4.4,5
+1284,35.0,Male,Bikaner,521300.0,Books,6250.74,3.4,4
+1285,21.0,Male,Udaipur,886200.0,Electronics,6936.61,3.3,7
+1286,27.0,Female,Jodhpur,593300.0,Home & Kitchen,6538.59,2.5,4
+1287,33.0,Male,Jaipur,301800.0,Sports,4728.6,5.0,5
+1288,31.0,Female,Jaipur,421800.0,Sports,1138.06,4.4,6
+1289,28.0,Other,Jaipur,180000.0,Sports,4197.94,4.3,3
+1290,30.0,Male,Ajmer,607900.0,Home & Kitchen,6116.01,4.5,8
+1291,29.0,Male,Jodhpur,616100.0,Home & Kitchen,2801.02,4.2,5
+1292,32.0,Other,Bikaner,573600.0,Clothing,6588.8,3.6,6
+1293,44.0,Female,Kota,844200.0,Sports,7198.47,3.7,6
+1294,18.0,Male,Kota,865700.0,Home & Kitchen,5479.11,3.5,2
+1295,29.0,Female,Udaipur,619300.0,Books,500.0,5.0,4
+1296,33.0,Female,Bikaner,,Clothing,2388.21,4.2,5
+1297,,Female,Jaipur,761100.0,Books,9349.62,3.5,4
+1298,28.0,Female,Jaipur,750000.0,Clothing,3997.62,4.1,5
+1299,18.0,Male,Udaipur,705700.0,Books,834.88,3.1,5
+1300,34.0,Male,Udaipur,826700.0,Electronics,7917.54,4.9,7
+1301,47.0,Female,Kota,440300.0,Electronics,5229.38,3.3,4
+1302,18.0,Male,Bikaner,1011600.0,Clothing,7630.87,4.2,5
+1303,39.0,Female,Kota,477300.0,Home & Kitchen,5809.31,4.5,3
+1304,28.0,Female,Jodhpur,784900.0,Books,6208.83,4.1,5
+1305,30.0,Male,,346300.0,Clothing,5998.62,3.9,3
+1306,22.0,Female,Bikaner,482600.0,Electronics,6734.47,3.8,1
+1307,,Male,Jodhpur,922900.0,Clothing,10210.35,3.8,6
+1308,43.0,Female,Kota,603000.0,Home & Kitchen,7336.21,3.4,6
+1309,36.0,Male,Kota,801200.0,Home & Kitchen,1723.25,3.5,4
+1310,47.0,Female,Bikaner,692700.0,Books,6182.66,4.8,5
+1311,42.0,Female,Bikaner,631100.0,Clothing,7711.26,3.7,4
+1312,35.0,Male,Udaipur,895500.0,Books,7845.94,3.2,5
+1313,47.0,Female,Jodhpur,607400.0,Books,4261.47,3.4,9
+1314,35.0,Female,Udaipur,329500.0,Books,7762.88,4.6,5
+1315,38.0,Female,Udaipur,505400.0,Home & Kitchen,7241.03,4.3,4
+1316,28.0,Female,Jodhpur,749200.0,Sports,10859.54,4.2,8
+1317,32.0,Other,Kota,721200.0,Clothing,3550.0,3.6,7
+1318,25.0,Male,Jodhpur,367900.0,Books,4083.72,4.2,4
+1319,40.0,Female,Kota,519600.0,Electronics,4526.54,3.3,5
+1320,20.0,Male,Bikaner,545300.0,Electronics,4121.51,3.6,5
+1321,38.0,Female,Ajmer,584200.0,Sports,3241.95,4.5,4
+1322,29.0,Female,Jaipur,402300.0,Home & Kitchen,500.0,4.4,3
+1323,42.0,Male,Bikaner,536900.0,Books,4243.66,3.1,4
+1324,38.0,Male,Jaipur,518900.0,Books,6012.59,3.2,1
+1325,47.0,Female,Udaipur,788900.0,Books,4114.91,3.9,3
+1326,38.0,Male,Jodhpur,795600.0,Clothing,9457.84,5.0,8
+1327,18.0,Female,Jaipur,623800.0,Electronics,5229.43,2.5,5
+1328,30.0,Male,Jodhpur,579400.0,Electronics,8040.26,4.0,6
+1329,20.0,Other,Jaipur,675200.0,Sports,5775.12,2.8,6
+1330,26.0,Male,Bikaner,503000.0,Clothing,7018.1,3.4,3
+1331,45.0,Male,Jaipur,443600.0,Home & Kitchen,5814.33,3.5,4
+1332,37.0,Female,Udaipur,480800.0,Home & Kitchen,8211.33,3.5,2
+1333,25.0,Female,Bikaner,535700.0,Electronics,5323.07,3.4,7
+1334,22.0,Male,Ajmer,440600.0,Home & Kitchen,6291.47,3.8,6
+1335,31.0,Male,Ajmer,679200.0,Electronics,6005.93,3.4,7
+1336,20.0,Female,Jaipur,781300.0,Electronics,4565.77,2.8,6
+1337,25.0,Female,Ajmer,364300.0,Electronics,6090.96,4.3,3
+1338,34.0,Male,Kota,654500.0,Sports,10115.65,4.3,4
+1339,41.0,Female,Jodhpur,610400.0,Home & Kitchen,4605.13,4.4,6
+1340,36.0,Female,Udaipur,711500.0,Sports,6122.82,2.7,4
+1341,18.0,Female,Ajmer,647700.0,Home & Kitchen,7967.11,4.0,3
+1342,34.0,Female,Udaipur,388400.0,Clothing,7708.56,4.3,5
+1343,32.0,Female,Jodhpur,422800.0,Books,5225.78,3.1,6
+1344,35.0,Male,Ajmer,655300.0,Sports,500.0,3.8,3
+1345,46.0,Female,Ajmer,835200.0,Home & Kitchen,6336.75,3.7,5
+1346,18.0,Female,Ajmer,251400.0,Electronics,500.0,5.0,2
+1347,26.0,Female,Ajmer,712200.0,Clothing,8433.86,5.0,5
+1348,36.0,Male,Ajmer,864100.0,Sports,5572.84,2.6,8
+1349,18.0,Male,Udaipur,622500.0,Home & Kitchen,7399.28,5.0,7
+1350,44.0,Female,Jodhpur,749000.0,Sports,3215.36,3.2,6
+1351,34.0,Male,Kota,523400.0,Home & Kitchen,1784.48,4.5,1
+1352,39.0,Other,Jodhpur,628500.0,Electronics,5773.66,4.5,2
+1353,26.0,Male,Udaipur,358200.0,Sports,5126.07,3.1,3
+1354,38.0,Female,Kota,228000.0,Books,4118.61,4.1,9
+1355,41.0,Female,Ajmer,819700.0,Books,5386.25,3.7,5
+1356,33.0,Male,Jodhpur,472700.0,Sports,11288.36,4.2,4
+1357,33.0,Male,Jodhpur,568000.0,Electronics,7035.96,4.0,6
+1358,33.0,Female,Bikaner,400400.0,Sports,7508.9,4.6,3
+1359,23.0,Female,Jaipur,396200.0,Clothing,7056.66,3.9,7
+1360,30.0,Male,Kota,618700.0,Sports,8454.82,3.7,4
+1361,30.0,Female,Bikaner,518700.0,Electronics,4781.84,4.6,6
+1362,34.0,Female,Kota,718000.0,Home & Kitchen,679.53,4.2,5
+1363,40.0,Male,Udaipur,731500.0,Books,4785.11,4.3,8
+1364,21.0,Male,Bikaner,707800.0,Electronics,30000.0,3.3,3
+1365,30.0,Male,Udaipur,692900.0,Electronics,3066.44,3.1,3
+1366,44.0,Male,Bikaner,934000.0,Sports,4811.99,3.4,5
+1367,24.0,Male,Udaipur,457800.0,Electronics,3678.11,3.4,3
+1368,24.0,Male,Jaipur,640100.0,Books,8504.46,4.4,5
+1369,33.0,Female,Kota,853900.0,Sports,6848.81,4.5,5
+1370,39.0,Male,Jaipur,877600.0,Books,6633.39,3.7,6
+1371,31.0,Female,Ajmer,394100.0,Home & Kitchen,6567.52,4.8,3
+1372,43.0,Male,Kota,593800.0,Home & Kitchen,5118.05,4.8,6
+1373,39.0,Male,Udaipur,894500.0,Books,5634.62,4.0,5
+1374,39.0,Female,Udaipur,741500.0,Home & Kitchen,2592.59,3.2,5
+1375,36.0,Female,Kota,685100.0,Home & Kitchen,500.0,4.9,7
+1376,52.0,Male,Jodhpur,610800.0,Electronics,5530.18,3.8,5
+1377,29.0,Male,Jodhpur,580900.0,Books,5912.78,3.9,6
+1378,18.0,Male,Udaipur,701900.0,Books,7860.38,3.6,6
+1379,45.0,Female,Jodhpur,604600.0,Books,8656.94,3.2,3
+1380,27.0,Male,Bikaner,642300.0,Electronics,8654.0,2.8,9
+1381,32.0,Male,Jaipur,664100.0,Books,3004.35,4.2,3
+1382,43.0,Male,Bikaner,527900.0,Books,4425.02,3.3,5
+1383,18.0,Female,Udaipur,745800.0,Electronics,6256.74,5.0,7
+1384,20.0,Female,Kota,1174600.0,Sports,10770.19,3.0,5
+1385,18.0,Female,Jaipur,330100.0,Home & Kitchen,8456.22,2.9,5
+1386,24.0,Female,Udaipur,708300.0,Home & Kitchen,7662.67,4.2,8
+1387,35.0,Male,Bikaner,513200.0,Books,4346.87,4.9,5
+1388,36.0,Male,Jodhpur,753900.0,Home & Kitchen,3256.96,3.8,4
+1389,33.0,Male,Jaipur,658400.0,Home & Kitchen,6935.6,4.2,4
+1390,18.0,Female,Kota,787100.0,Clothing,2778.55,2.5,3
+1391,,Female,Jaipur,861600.0,Sports,4675.44,3.3,4
+1392,31.0,Female,Jodhpur,684600.0,Sports,4947.49,3.0,6
+1393,27.0,Other,Udaipur,853800.0,Electronics,8704.41,2.5,5
+1394,35.0,Other,Kota,228000.0,Books,4419.67,3.9,4
+1395,37.0,Female,Kota,936300.0,Electronics,500.0,2.2,3
+1396,32.0,Male,Bikaner,717500.0,Clothing,6309.78,2.9,6
+1397,38.0,Male,Ajmer,844000.0,Sports,3662.15,3.4,5
+1398,33.0,Male,Jaipur,430400.0,Electronics,5293.79,3.2,3
+1399,36.0,Female,Udaipur,500500.0,Clothing,5009.25,4.1,6
+1400,25.0,Male,Jaipur,676300.0,Clothing,4597.85,4.0,4
+1401,29.0,Female,Jaipur,646900.0,Books,6938.75,4.4,6
+1402,33.0,Female,Jodhpur,701000.0,Home & Kitchen,1827.7,4.3,8
+1403,38.0,Female,Kota,845200.0,Home & Kitchen,25000.0,4.6,2
+1404,27.0,Male,Ajmer,332300.0,Sports,6704.88,,4
+1405,36.0,Male,Bikaner,825300.0,Home & Kitchen,3849.01,4.0,6
+1406,29.0,Male,Kota,651500.0,Books,1660.63,4.2,4
+1407,30.0,Female,Bikaner,613300.0,Electronics,6670.82,3.9,6
+1408,38.0,Female,Jodhpur,385200.0,Clothing,7670.81,,5
+1409,18.0,Female,Ajmer,740500.0,Sports,5101.01,3.6,4
+1410,19.0,Male,Ajmer,215500.0,Sports,886.14,3.2,3
+1411,18.0,Male,Jaipur,766700.0,Books,6753.13,4.1,5
+1412,18.0,Male,Udaipur,381400.0,Clothing,1548.25,3.7,4
+1413,25.0,Female,Bikaner,659600.0,Electronics,5879.36,3.3,6
+1414,38.0,Female,Udaipur,628500.0,Sports,3247.58,3.3,5
+1415,28.0,Male,Ajmer,860500.0,Books,2648.35,3.0,4
+1416,33.0,Female,Ajmer,617800.0,Clothing,4227.8,4.5,6
+1417,41.0,Male,Udaipur,525100.0,Home & Kitchen,4796.75,3.9,9
+1418,43.0,Female,Jaipur,558800.0,Books,3782.74,3.2,2
+1419,30.0,Male,Udaipur,879100.0,Home & Kitchen,6495.15,4.4,4
+1420,43.0,Male,Jodhpur,746500.0,Sports,4218.65,3.4,7
+1421,32.0,Female,Udaipur,580600.0,Electronics,7356.42,2.8,5
+1422,23.0,Male,Kota,607400.0,Clothing,5818.58,4.5,6
+1423,26.0,Male,Udaipur,367900.0,Electronics,3665.37,3.4,6
+1424,18.0,Male,Jodhpur,719900.0,Books,3294.93,3.5,5
+1425,23.0,Male,Jodhpur,333200.0,Books,1575.51,3.8,2
+1426,28.0,Female,Bikaner,785300.0,Sports,5839.61,4.6,9
+1427,38.0,Female,Jaipur,673200.0,Home & Kitchen,4419.91,3.8,4
+1428,,Female,Jodhpur,1079700.0,Electronics,500.0,3.0,3
+1429,19.0,Male,Ajmer,452000.0,Home & Kitchen,4021.43,4.2,1
+1430,35.0,Female,Jaipur,631500.0,Electronics,3217.73,3.5,7
+1431,22.0,Male,Udaipur,973700.0,Books,8666.49,5.0,6
+1432,35.0,Male,Jodhpur,864500.0,Books,1453.89,3.8,5
+1433,30.0,Male,Jaipur,,Sports,2029.03,2.2,2
+1434,18.0,Female,Udaipur,690300.0,Clothing,7641.93,4.1,2
+1435,39.0,Female,Kota,650400.0,Clothing,8184.88,5.0,5
+1436,26.0,Female,Jodhpur,700800.0,Electronics,3561.04,4.9,4
+1437,26.0,Female,Jaipur,524200.0,Home & Kitchen,3809.41,5.0,6
+1438,21.0,Female,Jaipur,633900.0,Home & Kitchen,6555.72,3.1,8
+1439,25.0,Female,Kota,362400.0,Books,28000.0,4.4,3
+1440,35.0,Female,Ajmer,674300.0,Books,1105.37,3.3,2
+1441,29.0,Male,Jodhpur,731000.0,Electronics,4582.39,4.0,3
+1442,34.0,Male,Jodhpur,609100.0,Clothing,8609.76,2.9,3
+1443,34.0,Male,Udaipur,359300.0,Home & Kitchen,4241.39,3.3,6
+1444,43.0,Female,Udaipur,827900.0,Clothing,5422.06,3.3,3
+1445,28.0,Female,Jodhpur,715600.0,Electronics,7694.34,4.4,3
+1446,18.0,Female,Jaipur,519300.0,Sports,9835.15,4.4,4
+1447,41.0,Male,Kota,599500.0,Books,3930.93,4.0,5
+1448,28.0,Female,Udaipur,379900.0,Home & Kitchen,5162.96,2.9,5
+1449,41.0,Male,Udaipur,465400.0,Clothing,9208.52,3.6,4
+1450,34.0,Male,Jodhpur,553200.0,Sports,1851.16,3.3,5
+1451,30.0,Male,Ajmer,871100.0,Electronics,7460.68,4.4,3
+1452,34.0,Male,Kota,534900.0,Home & Kitchen,2959.71,4.6,3
+1453,49.0,Female,Udaipur,765200.0,Sports,5425.44,4.5,7
+1454,50.0,Male,Jodhpur,553100.0,Sports,4666.24,3.3,6
+1455,32.0,Female,Bikaner,694600.0,Clothing,3092.37,1.9,11
+1456,32.0,Male,Ajmer,624500.0,Books,3037.18,2.6,7
+1457,,Male,Jaipur,807200.0,Electronics,5808.11,4.8,3
+1458,23.0,Female,Ajmer,553700.0,Electronics,7390.19,3.5,5
+1459,34.0,Male,Bikaner,366900.0,Clothing,4914.58,3.3,7
+1460,31.0,Other,Jaipur,401200.0,Sports,5354.25,4.9,5
+1461,34.0,Female,Bikaner,554300.0,Books,6456.58,4.7,1
+1462,23.0,Female,Jaipur,425200.0,Home & Kitchen,3062.44,3.8,5
+1463,18.0,Male,Jaipur,723800.0,Clothing,6827.32,3.6,5
+1464,18.0,Male,Jaipur,566200.0,Electronics,7002.55,3.7,2
+1465,21.0,Female,Udaipur,1077400.0,Clothing,10927.98,4.0,4
+1466,27.0,Male,Kota,337200.0,Electronics,4372.57,4.9,4
+1467,28.0,Male,Udaipur,686700.0,Electronics,4192.22,4.1,5
+1468,48.0,Male,Jaipur,447000.0,Books,6891.72,4.3,5
+1469,41.0,Female,Jodhpur,561200.0,Electronics,7002.03,4.6,7
+1470,22.0,Female,Ajmer,675500.0,Electronics,4022.81,3.0,4
+1471,34.0,Female,Ajmer,231400.0,Home & Kitchen,4313.04,4.3,10
+1472,27.0,Female,Bikaner,692600.0,Clothing,6390.49,3.6,6
+1473,28.0,Male,Jaipur,2800000.0,Home & Kitchen,3379.31,2.0,8
+1474,33.0,Female,Bikaner,568400.0,Electronics,4296.83,2.3,3
+1475,37.0,Male,Bikaner,696800.0,Clothing,5397.1,3.1,6
+1476,28.0,Female,Kota,834500.0,Home & Kitchen,7391.07,4.2,6
+1477,41.0,Male,Jaipur,620500.0,Books,3869.88,3.9,3
+1478,21.0,Other,Ajmer,545400.0,Home & Kitchen,1146.75,3.9,7
+1479,31.0,Male,Udaipur,240400.0,Home & Kitchen,983.49,5.0,5
+1480,54.0,Male,Jaipur,765400.0,Home & Kitchen,2429.29,2.9,4
+1481,33.0,Male,Jodhpur,629600.0,Clothing,2311.03,3.8,5
+1482,44.0,Male,Udaipur,467700.0,Clothing,4859.86,4.0,5
+1483,32.0,Male,Jaipur,672800.0,Home & Kitchen,2584.46,3.3,3
+1484,36.0,Female,Jodhpur,544900.0,Electronics,3653.94,3.8,5
+1485,30.0,Male,Udaipur,554900.0,Books,3497.01,2.7,2
+1486,29.0,Female,Ajmer,759100.0,Books,4230.88,4.8,10
+1487,24.0,Male,Jaipur,409100.0,Clothing,8109.51,3.3,4
+1488,35.0,Female,Kota,838500.0,Clothing,6656.28,,4
+1489,23.0,Male,Ajmer,398400.0,Clothing,5235.48,3.8,8
+1490,37.0,Female,Bikaner,530700.0,Books,4185.74,4.5,1
+1491,41.0,Female,Ajmer,996100.0,Books,4246.89,3.8,6
+1492,34.0,Male,Jodhpur,852900.0,Electronics,5921.04,3.8,3
+1493,28.0,Female,Bikaner,667600.0,Home & Kitchen,6485.17,3.4,3
+1494,35.0,Male,Ajmer,480700.0,Electronics,3203.24,3.9,5
+1495,28.0,Male,Jodhpur,554700.0,Home & Kitchen,5280.26,4.0,4
+1496,39.0,Female,,663200.0,Clothing,730.44,3.3,4
+1497,18.0,Female,,656800.0,Clothing,5665.77,3.7,5
+1498,28.0,Male,Udaipur,633600.0,Home & Kitchen,6876.73,3.4,1
+1499,18.0,Male,Jodhpur,644500.0,Clothing,4583.85,5.0,6
+1500,18.0,Female,Ajmer,611400.0,Clothing,9196.36,3.7,5
+1016,23.0,Female,Bikaner,,Electronics,5868.44,3.7,6
+1073,23.0,Female,Bikaner,203500.0,Sports,11486.36,2.3,6
+1141,35.0,Female,Kota,361100.0,Electronics,5297.28,3.3,4
+1221,29.0,Male,Jaipur,578900.0,Home & Kitchen,4810.91,3.0,4
+1316,28.0,Female,Jodhpur,749200.0,Sports,10859.54,4.2,8
